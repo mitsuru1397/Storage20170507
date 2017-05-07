@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <sstream>
 
-//setw‚ğg‚¤‚É‚Íiomanip
+//setwâ€šÃ°Å½gâ€šÂ¤â€šÃ‰â€šÃiomanip
 using namespace std;
 
 int main()
